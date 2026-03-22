@@ -1,17 +1,19 @@
 ## Hi, I'm Greg
 
-Software engineer with 4 years of experience building and modernizing enterprise systems in financial services. I care about reliability, security, and making complex systems easier to operate. My path into software was non-traditional — trades, healthcare, bootcamp — and that background gives me a calm, methodical approach to solving hard problems.
+Software engineer by day — Java, Spring Boot, enterprise financial systems. After hours I build things I'm curious about: audio tools, systems programming from scratch, workflow automation. Based in Metro Columbus, OH.
 
-## What I Build
+Everything I build goes through **[gig](https://github.com/gregrossdev/gig)** — a workflow system I built for Claude Code. Gather decisions, implement in batches, govern quality. Two approval gates, zero decision fatigue. It's how I turn AI into reliable, governed output instead of vibe coding.
 
-- **Enterprise systems and modernization** — Maintaining and upgrading mission-critical financial applications, from Java 8 to Java 21.
-- **DevOps and deployment pipelines** — CI/CD automation, containerized deployments, and observability that keeps teams confident in production.
-- **Full-stack applications** — End-to-end development with Java/Spring Boot backends and modern frontend frameworks.
+## What I'm Working On
+
+- **[bitwig-extensions](https://github.com/gregrossdev/bitwig-extensions)** — Programmable control for Bitwig Studio — JSON-RPC API, CLI, WebSocket streaming, and interactive docs. Java.
+- **[audio-visuals](https://github.com/gregrossdev/audio-visuals)** — Real-time audio visualization with 10 modes, multi-layer compositing, and beat-reactive rendering. Kotlin + Compose Desktop.
+- **[code-challenges](https://github.com/gregrossdev/code-challenges)** — From-scratch Unix tools, network servers, and parsers. Kotlin + GraalVM native images.
 
 ## Tech Stack
 
-**Languages:** Java, JavaScript/TypeScript, Bash, SQL
-**Frontend:** Angular, React, Vue
+**Languages:** Java, Kotlin, JavaScript/TypeScript, Bash, SQL
+**Frontend:** Angular, React, Vue, Jetpack Compose Desktop
 **Backend:** Spring Boot, Node.js
 **Infrastructure:** Docker, Kubernetes, Helm, AWS, GitHub Actions, Harness
 **Observability:** Splunk, Grafana, alerting and runbooks
